@@ -1,4 +1,0 @@
-{ "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 },
-{ "src": "/en", "dest": "/en/myNode" }
-] 
-}
